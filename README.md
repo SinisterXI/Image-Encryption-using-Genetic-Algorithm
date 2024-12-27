@@ -31,5 +31,5 @@ This project demonstrates image encryption using a **Genetic Algorithm (GA)**. T
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/image-encryption-ga.git
+   git clone https://github.com/rooshanriaz/Image-Encryption-using-Genetic-Algorithm.git
    cd image-encryption-ga
