@@ -38,3 +38,6 @@ This project demonstrates image encryption using a **Genetic Algorithm (GA)**. T
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
