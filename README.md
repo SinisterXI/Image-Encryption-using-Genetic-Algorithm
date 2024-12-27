@@ -34,7 +34,7 @@ This project demonstrates image encryption using a **Genetic Algorithm (GA)**. T
 
    ```bash
    git clone https://github.com/rooshanriaz/Image-Encryption-using-Genetic-Algorithm.git
-   cd image-encryption-ga
+   cd Image-Encryption-using-Genetic-Algorithm
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
