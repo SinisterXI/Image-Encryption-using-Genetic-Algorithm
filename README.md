@@ -1,4 +1,6 @@
-# Image Encryption with Genetic Algorithm
+<div align="center">
+  <h1><strong> Image Encryption with Genetic Algorithm </strong></h1>
+</div>
 
 ## Overview
 
