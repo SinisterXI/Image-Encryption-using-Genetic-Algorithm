@@ -23,7 +23,7 @@ This project demonstrates image encryption using a **Genetic Algorithm (GA)**. T
 
 ## Requirements
 
-- Python 3.x
+- Python 3.6
 - OpenCV (`cv2`)
 - NumPy
 - Matplotlib
